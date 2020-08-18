@@ -17,7 +17,7 @@ public class Activity2 extends AppCompatActivity {
         setContentView(R.layout.activity_2);
         Button add = findViewById(R.id.Add);
         Button sub = findViewById(R.id.sub);
-        Button multi =findViewById(R.id.multi);
+        Button multi = findViewById(R.id.multi);
         Button div = findViewById(R.id.div);
         final TextView ans = (TextView)findViewById(R.id.answer);
 
@@ -90,9 +90,6 @@ public class Activity2 extends AppCompatActivity {
         });
 
     }
-
-
-
 
 
 }
